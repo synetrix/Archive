@@ -1,10 +1,6 @@
-# Git Workflows: A Practical Guide from Basics to Professional Team Workflows
+# Git Workflows
 
-> A practical Git reference for software and technology work.
->
-> This guide is designed to be read progressively: start with the
-> basics, then branching, collaboration, conflict handling, history
-> recovery, and finally professional Git workflows.
+> Git reference for software and technology work.
 
 ------------------------------------------------------------------------
 
@@ -2695,6 +2691,7 @@ learn.
 # References
 Github Docs :
 https://git-scm.com/docs/git
+
 Github cheat sheets :
 https://education.github.com/git-cheat-sheet-education.pdf
 
