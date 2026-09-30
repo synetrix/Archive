@@ -48,6 +48,7 @@
 28. [Workflow Decision Guide](#28-workflow-decision-guide)
 29. [Git Command Cheat Sheet](#29-git-command-cheat-sheet)
 30. [Final Professional Checklist](#30-final-professional-checklist)
+31. [References](#references)
 
 ------------------------------------------------------------------------
 
@@ -2690,3 +2691,18 @@ knowing:
 
 Once those principles are understood, the commands become much easier to
 learn.
+
+# References
+Github Docs :
+https://git-scm.com/docs/git
+Github cheat sheets :
+https://education.github.com/git-cheat-sheet-education.pdf
+
+git bootcamp summaries:
+https://rcs.bu.edu/examples/Git/Bootcamp/Git_CheatSheet.pdf
+
+git tutorial:
+https://git-scm.com/docs/gittutorial
+
+git learn:
+https://git-scm.com/learn
